@@ -1,7 +1,7 @@
 ## MedAliAraqi
 ## Mohamed Ali Araqi
 ## Expérience en programmation
-C'est la premiere fois que je vais toucher à la programmation, donc je n'ai aucune expérience pour le moment 
+C'est la premiere fois que je vais toucher à la programmation, donc je n'ai aucune expérience pour le moment.
 
 ## Vos attentes envers le cours
 Je suis là pour apprendre à programmer avec Phyton et pouvoir réaliser des projets et pratiquer au maximun les connaissances que je vais acquérir durant ce cours.
